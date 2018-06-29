@@ -8,6 +8,8 @@ category: side dish
 
 A Dalmatian recipe to accompany the grilled meats/fishes
 
+![Bietole e Patate alla Dalmata](media/bietole-e-patate-alla-dalmata.jpg)
+
 Ingredients
 ===========
 
