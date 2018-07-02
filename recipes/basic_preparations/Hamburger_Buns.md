@@ -44,6 +44,6 @@ Notes
 
 For large buns cut dough into 8 pieces. For medium buns, cut into 10 pieces. For small slider buns, cut into 12-14 pieces.
 
-Servings: 10
-Calories: 218 kcal
-Author: Carissa Serink
+* Servings: 10
+* Calories: 218 kcal
+* Author: Carissa Serink
