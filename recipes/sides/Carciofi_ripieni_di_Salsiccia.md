@@ -1,12 +1,12 @@
 ---
 title: Carciofi ripieni di Salsiccia
 source: www.gnamgnam.it
-img: an\_image.png
+img: media/carciofi\_ripieni\_di\_salsiccia.jpg
 tags: artichokes, sausage, side, meat
 category: side dish
 ---
 
-![Carciofi ripieni di Salsiccia](carciofi_ripieni_di_salsiccia.jpg)
+![Carciofi ripieni di Salsiccia](media/carciofi_ripieni_di_salsiccia.jpg)
 
 Ingredients
 ===========
