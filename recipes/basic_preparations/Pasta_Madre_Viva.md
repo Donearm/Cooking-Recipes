@@ -25,6 +25,7 @@ Come Paperone con la sua numero 1, anche Renato conserva la sua prima pasta madr
 “Viva” mi sembrava un po’ affettato, così gliel’ho detto. Mi ha spiegato che l’aggettivo invece è fondamentale, e che serve a differenziare questa piccola creaturina da coccolare dagli altri lieviti “naturali” in commercio, che sono disidratati, e che stanno pazienti nella bustina finché non vi viene il guizzo della pasticceria.
 
 Viva, in effetti, la sua pasta madre lo è anche troppo: va nutrita ogni giorno, protetta dal caldo e dal freddo (io, probabilmente le canterei anche la ninna nanna). Sia come sia, mi ha dato la sua formula magica, che con grande prova di generosità condivido con voi, lettori di Dissapore.
+
 Ingredients
 ===========
 
