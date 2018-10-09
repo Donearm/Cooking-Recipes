@@ -4,6 +4,7 @@ A curated list of cooking recipes. Mostly in italian, a few in english. All in m
 ## A few bonus documents
 
 * [Pairing Cheese with Wine](https://github.com/Donearm/Cooking-Recipes/blob/master/cheese_with_wine.md)
+* [Pairing Wine with Cheese](https://github.com/Donearm/Cooking-Recipes/blob/master/wine_with_cheese.md)
 
 ## License
 
