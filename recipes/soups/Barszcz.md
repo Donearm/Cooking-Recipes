@@ -2,7 +2,7 @@
 title: Barszcz
 source: 
 img: 
-tags:  stock, onion, beetroot, polish cuisine
+tags: stock, onion, beetroot, polish cuisine
 category:  soup
 ---
 
