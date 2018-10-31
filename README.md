@@ -6,17 +6,17 @@ All have been collected over the years from the Net, relatives, mum and personal
 
 ## Table of Contents
 
-+ [Basic Preparations](recipes/basic_preparations)
-+ [Sauces](recipes/sauces)
-+ [Soups](recipes/soups)
-+ [Firsts](recipes/firsts)
-+ [Meat Dishes](recipes/meat_dishes)
-+ [Fish Dishes](recipes/fish_dishes)
-+ [Pies](recipes/pies)
-+ [Sides](recipes/sides)
-+ [Desserts](recipes/desserts)
-+ [Cakes](recipes/cakes)
-+ [Drinks](recipes/drinks)
++ [Basic Preparations](recipes/basic_preparations) :bread:
++ [Sauces](recipes/sauces) :custard:
++ [Soups](recipes/soups) :stew:
++ [Firsts](recipes/firsts) :spaghetti:
++ [Meat Dishes](recipes/meat_dishes) :poultry_leg:
++ [Fish Dishes](recipes/fish_dishes) :fried_shrimp:
++ [Pies](recipes/pies) :pizza:
++ [Sides](recipes/sides) :fries:
++ [Desserts](recipes/desserts) :ice_cream:
++ [Cakes](recipes/cakes) :cake:
++ [Drinks](recipes/drinks) :cocktail:
 
 ### A few bonus documents
 
