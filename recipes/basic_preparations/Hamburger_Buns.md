@@ -23,6 +23,18 @@ Ingredients
 * oil
 * 20ml milk 
 
+After some experimentations, I've settled on these quantities:
+
+* 15gr yeast
+* 200ml water
+* 500gr all-purpose flour
+* 30gr melted butter
+* 12gr white sugar
+* 12 gr salt
+* 30ml oil
+* 130ml milk
+* 20gr malt (or honey)
+
 Preparation
 ===========
 
