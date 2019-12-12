@@ -16,7 +16,9 @@ Ingredients
 * 1 uovo + 1 tuorlo per spalmare sopra
 * 3-4tbsp olio d'oliva oppure di burro sciolto e freddato
 * 1 pizzico di sale
-
+* 500gr patate (non novelle)
+* 250gr formaggio fresco (tipo ricotta)
+* 1 cipolla media tritata
 
 Preparation
 ===========
