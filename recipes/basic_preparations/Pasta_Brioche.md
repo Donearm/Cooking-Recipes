@@ -8,7 +8,7 @@ category: basic preparations
 
 La pasta brioche nella sua versione dolce è quella che accompagna i più fortunati di noi (cioè quelli che non hanno problemi di linea) ogni giorno al momento della colazione: si usa, infatti, per preparare croissant e brioche varie note, appunto, anche con il nome di lieviti. Il suo segreto, infatti – e anche l’unica fase delicata della sua preparazione – è la lunga lievitazione, alla perfetta realizzazione della quale partecipano almeno due ingredienti, il miele e il sale, che ne allungano i tempi con il risultato di far diventare la pasta brioche molto più digeribile. Secondo i pasticceri più quotati, inoltre, per una preparazione perfetta sarà meglio usare una farina ad alto contenuto proteico e di glutine, come ad esempio la manitoba.
 
-![Pasta Brioche](media/pasta_brioche.md)
+![Pasta Brioche](media/pasta_brioche.jpg)
 
 Ingredients
 ===========
