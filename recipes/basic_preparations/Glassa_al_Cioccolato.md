@@ -28,5 +28,3 @@ Aggiungete, a questo punto,  il cioccolato. Continuate a mescolare fino a farlo 
 
 Notes
 =====
-
-Any personal annotations and advises go here
