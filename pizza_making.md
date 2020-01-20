@@ -1,5 +1,7 @@
 ### A few experimentations with pizza making
 
+_Note: all recipes, unless otherwise specified, are cooked on a 2,5cm thick pizza stone, in a normal, up to 220°, oven_
+
 Ingredients
 
 * 468gr flour
