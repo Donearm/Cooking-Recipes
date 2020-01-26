@@ -1,13 +1,13 @@
 ### A few experimentations with pizza making
 
-_Note: all recipes, unless otherwise specified, are cooked on a 2,5cm thick pizza stone, in a normal, up to 220°, oven_
+_Note: all recipes, unless otherwise specified, are cooked on a 2,5cm thick pizza stone, in a normal, up to 220°, oven. A leaven like "lievito madre" is used_
 
 Ingredients
 
-* 468gr flour
-* 292ml water
+* 400gr flour
+* 240ml water
 * 16gr sugar
-* 7gr salt
+* 9gr salt
 * 5gr yeast
 * 15ml olive oil
 
@@ -15,12 +15,16 @@ Instructions
 
 In mixing bowl, mix together flour, sugar, yeast.
 
-While mixing with flat paddle, slowly poor ice water into dry mixture.
+Melt salt in tiepid/warm water.
 
-Let stand for 10 minutes+ (allows yeast to interact with water)
+While mixing with flat paddle, slowly poor the water into dry mixture.
 
-Add salt and olive oil. Hand knead until combined. Roll into a ball.
+Let stand for 10 minutes+ (allows yeast to interact with water).
 
-Place in oiled bowl. Cover with plastic wrap and let sit for 12-24 hours. If 24 hours, first 12 in the fridge.
+Hand knead until combined. Add olive oil. Roll into a ball.
+
+Place in a covered bowl, in a warm place (22-23°C at least). Let it sit for up to 12 hours. Put in the fridge overnight, up to 24 hours.
+
+A few hours before preparing the pizza, leave from the fridge and let it sit at room temperature for 2-6 hours. As long as it is still growing and the exterior isn't drying up.
 
 An hour before preparing the pizza, put dough onto floured surface. Cut into two pieces. Pull the sides up and in until the bottom side resembles a dough ball. Flip over so that the clean looking side is on top and place onto floured cookie sheet. Lightly flour top, and cover with plastic wrap. Let rise for about an hour before flattening out and preparing pizza.
