@@ -4,16 +4,16 @@ _Note: all recipes, unless otherwise specified, are cooked on a 2,5cm thick pizz
 
 Ingredients
 
-* 400gr flour
-* 240ml water
-* 16gr sugar
-* 9gr salt
-* 5gr yeast
+* 290gr flour
+* 170ml water
+* 8gr sugar
+* 10gr salt
+* 100gr levain (or 15gr of yeast)
 * 15ml olive oil
 
 Instructions
 
-In mixing bowl, mix together flour, sugar, yeast.
+In mixing bowl, mix together flour, sugar, levain (or yeast).
 
 Melt salt in tiepid/warm water.
 
@@ -23,8 +23,12 @@ Let stand for 10 minutes+ (allows yeast to interact with water).
 
 Hand knead until combined. Add olive oil. Roll into a ball.
 
-Place in a covered bowl, in a warm place (22-23°C at least). Let it sit for up to 12 hours. Put in the fridge overnight, up to 24 hours.
+Place in a covered bowl, in a warm place (22-23°C at least) for a couple of hours. 
 
-A few hours before preparing the pizza, leave from the fridge and let it sit at room temperature for 2-6 hours. As long as it is still growing and the exterior isn't drying up.
+After that, work the dough by stretching it, pulling it over the center, rotating 90° and stretching again. Do this until the stretching starts to lacerate the dough. Then stop.
 
-An hour before preparing the pizza, put dough onto floured surface. Cut into two pieces. Pull the sides up and in until the bottom side resembles a dough ball. Flip over so that the clean looking side is on top and place onto floured cookie sheet. Lightly flour top, and cover with plastic wrap. Let rise for about an hour before flattening out and preparing pizza.
+Let it sit for 2 more hours. Repeat the stretching and pulling.
+
+Then put in the fridge overnight, at least. Better yet for a whole 48 hours.
+
+Before preparing the pizza, leave from the fridge and let it sit at room temperature for 2-6 hours. As long as it is still growing and the exterior isn't drying up. Then flat it out and prepare the pizza while the oven is warming up.
