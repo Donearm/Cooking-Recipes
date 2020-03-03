@@ -27,7 +27,7 @@ Place in a covered bowl, in a warm place (22-23°C at least) for a couple of hou
 
 After that, work the dough by stretching it, pulling it over the center, rotating 90° and stretching again. Do this until the stretching starts to lacerate the dough. Then stop.
 
-Let it sit for 2 more hours. Repeat the stretching and pulling.
+Let it sit for 2 more hours. Repeat the stretching and pulling. Let it rest for about 30 minutes. Separate into multiple balls, if needed.
 
 Then put in the fridge overnight, at least. Better yet for a whole 48 hours.
 
