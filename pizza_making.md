@@ -1,4 +1,4 @@
-# A few experimentations with pizza making
+# In look for the "perfect" pizza
 
 _Note: all recipes, unless otherwise specified, are cooked on a 2,5cm thick pizza stone, in a normal, up to 220°, oven. A leaven like "lievito madre" is used_
 
