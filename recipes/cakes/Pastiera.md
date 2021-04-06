@@ -33,8 +33,7 @@ Per crema di ricotta:
 
 * 350gr di ricotta di pecora perfettamente sgocciolata
 * 300gr di zucchero
-* 3 uova medie
-* 2 tuorli medi
+* 1 uovo
 * 1/2tsp di cannella
 * 4tbsp di aroma di fiori d’arancio se utilizzate quello diluito; 1 cucchiaio se state usando quello concentrato
 * 70gr di canditi misti
@@ -88,7 +87,7 @@ Quest’operazione è necessaria, per rendere ancora più cremoso il composto fi
 
 Setacciate la ricotta, con un colino a fori stretti. Setacciare la ricotta è un’operazione noiosa ma indispensabile. La crema di ricotta dev’essere liscia, setosa e cremosa priva assolutamente di grumi e pezzetti. Dunque pazienza, schiacciate bene al fine di non sprecare nemmeno un pò di impasto.
 
-Alla ricotta setacciata, aggiungete la cannella, girate bene, poi amalgamate le uova e i tuorli, uno alla volta, avendo cura di far assorbire il precedente, prima di aggiungerne un altro, infine aggiungete i cucchiai di aroma di fiori d’arancio.
+Alla ricotta setacciata, aggiungete la cannella, girate bene, poi amalgamate l'uovo e infine aggiungete i cucchiai di aroma di fiori d’arancio.
 
 Il composto finale si presenterà come una crema liscia e piuttosto morbida. A questo punto sminuzzate i canditi. Io li preferisco molto piccoli, voi potete anche lasciarli più grandi. Quando la crema di grano è perfettamente fredda, aggiungetela alla crema di ricotta e infine aggiungete i canditi, girate bene.
 
