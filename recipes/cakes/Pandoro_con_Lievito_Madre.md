@@ -50,6 +50,7 @@ Quando la farina si sarà ben incorporata, aggiungete all'impasto l'emulsione a 
 Lavorate l'impasto leggermente in modo da piegarlo all’interno e chiudere la base, conferendo una forma tondeggiante; imburrate uno stampo da pandoro del diametro di 25cm e del peso di 750gr e adagiatevi l’impasto lasciando la superficie più tonda e liscia rivolta verso l'alto.
 
 Coprite nuovamente con un canovaccio asciutto e lasciate lievitare per almeno 12 ore sempre in un luogo a temperatura ambiente: trascorso questo tempo, l'impasto dovrà raggiungere quasi il bordo dello stampo; fate cuocere in forno statico preriscaldato a 180° per circa 55 minuti (a 160° per 45 minuti se in forno ventilato). Quando il pandoro sarà ben dorato, sfornatelo e capovolgetelo su un piatto da portata, facendolo raffreddare completamente prima di estrarlo dallo stampo. Infine potete servire il vostro pandoro con lievito madre, terminando con una spolverizzata di zucchero a velo a piacere.
+
 Notes
 =====
 
