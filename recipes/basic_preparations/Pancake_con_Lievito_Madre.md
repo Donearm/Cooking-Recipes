@@ -11,15 +11,15 @@ category: basic preparations
 Ingredients
 ===========
 
-Per circa 8 pancake:
+Per circa 15 pancake:
 
-* 300gr di latte a temperatura ambiente
-* 200gr di farina 00
-* 50gr di burro fuso
+* 400ml di latte a temperatura ambiente
+* 300gr di farina 00
+* 70gr di burro fuso
 * 2 uova
 * 70gr di lievito madre rinfrescato
 * 1tsp di sale
-* 30gr di zucchero
+* 50gr di zucchero
 
 Preparation
 ===========
