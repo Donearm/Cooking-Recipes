@@ -10,8 +10,8 @@
         * [Preparation of the TangZhong/Water Roux](#preparation-of-the-tangzhongwater-roux)
         * [Ingredients for the main dough](#ingredients-for-the-main-dough)
         * [Preparation of the main dough](#preparation-of-the-main-dough)
-    * [Proofing steps and protocol](#proofing-steps-and-protocol)
-    * [Baking](#baking)
+        * [Proofing steps and protocol](#proofing-steps-and-protocol)
+        * [Baking](#baking)
 
 <!-- vim-markdown-toc -->
 
@@ -90,7 +90,7 @@ This recipe yields for 2 pizzas of 250g. The pizza dough is made with a TangZhon
 7. After the last stretch and fold, let the pizza dough rest again (30 min) before balling it. Otherwise, you will tear the pizza dough when balling if it's unrelaxed.
 8. Ball your dough, place them in a suitable container and let them rest.
 
-## Proofing steps and protocol
+### Proofing steps and protocol
 
 1. 3 hours at 23°C (balled)
 2. 19 hours at 8°C (balled)
@@ -98,6 +98,6 @@ This recipe yields for 2 pizzas of 250g. The pizza dough is made with a TangZhon
 
 The dough had a temperature of 19°C when shaped.
 
-## Baking
+### Baking
 
 Use a gas-fired pizza oven as the Roccbox. Floor temperature 450C in the back and 420C in the middle.
