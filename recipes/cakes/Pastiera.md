@@ -26,7 +26,7 @@ Per la pasta frolla:
 * 2 tuorli piccoli
 * la punta di 1 cucchiaino di lievito
 * 1tsp raso di aroma di fiori d’arancio se utilizzate quello diluito; 2 gocce se state usando quello concentrato
-buccia grattugiata di 1 limone
+* buccia grattugiata di 1 limone
 * 1 pizzico di sale
 
 Per crema di ricotta:
