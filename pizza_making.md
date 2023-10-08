@@ -12,6 +12,7 @@
         * [Preparation of the main dough](#preparation-of-the-main-dough)
         * [Proofing steps and protocol](#proofing-steps-and-protocol)
         * [Baking](#baking)
+    * [Recipe from hendricius](#recipe-from-hendricius)
 
 <!-- vim-markdown-toc -->
 
@@ -101,3 +102,9 @@ The dough had a temperature of 19°C when shaped.
 ### Baking
 
 Use a gas-fired pizza oven as the Roccbox. Floor temperature 450C in the back and 420C in the middle.
+
+## Recipe from hendricius
+
+From the [Sourdough Framework book](https://github.com/hendricius/the-sourdough-framework), the whole recipe is contained in its own [Github repo](https://github.com/hendricius/pizza-dough).
+
+An useful companion to it is the [pizza-calculator](https://pizza-calculator.the-bread-code.io/), to have the exact water to flour ratio for the desired number of pizzas.
