@@ -10,6 +10,8 @@ Every country, region, and even individual has  their own version of grilled
 chicken. Chicken is available all over the world, and throughout history, 
 grilling has been one of the favourite methods of cooking it. 
 
+![Ayam Bakar Solo](media/ayam_bakar_solo.jpg)
+
 Grilled chicken is known as ayam bakar in Indonesia. There are many varieties 
 of ayam bakar, each flavoured with a unique blend of spices. Most commonly, 
 such blends include sweet soy sauce, which the chicken is simmered or marinated 
