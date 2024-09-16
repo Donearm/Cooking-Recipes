@@ -24,12 +24,11 @@ _Note: all recipes, unless otherwise specified, are cooked on a 2,5cm thick pizz
 
 ### Ingredients for 2 medium/large pizza
 
-* 400g flour
-* 260ml water
+* 300g flour
+* 180ml water
 * 8g sugar (optional)
-* 10g salt
-* 100g levain (or 15gr of yeast)
-* 15ml olive oil (optional)
+* 6g salt
+* 15g levain
 
 #### For the sauce
 
@@ -39,20 +38,46 @@ Make the sauce with a classic "soffritto" of garlic and extravirgin olive oil. D
 
 ### Instructions
 
-1. In a mixing bowl, mix together flour, sugar, levain (or yeast).
-2. Melt salt in tiepid/warm water.
-3. While mixing with flat paddle, slowly pour the water into dry mixture.
-4. Let stand for 5 minutes (allows yeast to interact with water).
-5. Hand knead until combined. Add olive oil. Roll into a ball.
-6. Place in a covered bowl, in a warm place (22-23°C at least) for a couple of hours. Don't let it dry, knead it every 30-45 minutes if it tends to drying.
-7. After that, work the dough by stretching it, pulling it over the center, rotating 90° and stretching again. Do this until the stretching starts to lacerate the dough. Then stop.
-8. Let it sit for 2 more hours. Repeat the stretching and pulling. Let it rest for about 30 minutes. Separate into multiple balls (2 or more depending on how many pizza are desired).
-9. Then put in the fridge overnight, at least. Up to 48 hours, 24-36 being ideal.
-10. Before preparing the pizza, leave from the fridge and let it sit at room temperature for 2-6 hours. As long as it is still growing and the exterior isn't drying up.
-11. Pre-heat the pizza stone at max oven temperature (not grill) for at least half an hour. Depending on how thick the stone is and its material, you may need to prolong this preheating to up to 1 full hour.
-12. Then flat the dough out and prepare the pizza. Use the tomato sauce as instructed above or any type of sauce you like. Pour a spoon of extravirgin olive oil on the sauce.
-13. The overall cooking of the pizza depends on the temperature of your oven and how hot is the pizza stone. Without a pizza stone, on a typical oven baking sheet, it may need up to 20 minutes to fully cook. That's not a neapolitan pizza though, which does require short cooking times and high temperatures. On a pizza stone 7-10 minutes should be sufficient.
-14. Add fior di latte, if available, or fresh mozzarella 2-3 minutes before pulling the pizza out of the oven. Fresh basil leaves can be added too, 1 minute before ending the cooking or directly before serving. Make sure the leaves don't burn as they will become bitter.
+1. In a mixing bowl, mix together flour, sugar, levain.
+2. While mixing with flat paddle, slowly pour the water into dry mixture.
+3. Add salt when the dough is still wet and partly mixed.
+5. Hand knead until combined. Roll into a ball.
+6. After 15 minutes, knead the dough some more until all ingredients feel 
+   perfectly mixed.
+7. Place in a covered bowl, in a warm place (22-23°C at least) for half an hour
+8. After that, work the dough by stretching it, pulling it over the center, 
+   rotating 90° and stretching again. Do this until the stretching starts to 
+   lacerate the dough. Then stop. If it immediately lacerates, wait another 15 
+   minutes and try again.
+9. Let it sit for about 8-12 hours. This is the bulk fermentation phase. Leave 
+   the lid on the dough and let it sit in a warm (ideally 22-25C). If you need 
+   to cook the pizza for lunch, leave it ferment overnight. If you want it for 
+   dinner, do the previous points in the morning and start the fermentation 
+   around midday.
+10. Whenever you started the bulk fermentation, 3 hours before the cooking time 
+    divide the dough in 2 with a sharp knife. Make two balls.
+11. Leave the dough balls on a unfloured surface, but cover it with a wet 
+    cloth. Wet it completely and then wring out the excess water.
+12. Pre-heat the pizza stone at max oven temperature (not grill) for at least 
+    half an hour. Depending on how thick the stone is and its material, you may 
+    need to prolong this preheating to up to 1 full hour.
+13. Then flat the dough out and prepare the pizza. Use the tomato sauce as 
+    instructed above or any type of sauce you like. Pour a spoon of extravirgin 
+    olive oil on the sauce.
+14. The overall cooking of the pizza depends on the temperature of your oven 
+    and how hot is the pizza stone. Without a pizza stone, on a typical oven 
+    baking sheet, it may need up to 20 minutes to fully cook. That's not a 
+    neapolitan pizza though, which does require short cooking times and high 
+    temperatures. On a pizza stone 7-10 minutes should be sufficient.
+15. As soon as pizza is in the oven, crank the grill on. Leave it cooking for 3 
+    minutes.
+16. Add fior di latte, if available, or fresh mozzarella. Let it melt, it will 
+    need a couple of minutes. Overall cooking time is 6 minutes, 3 without 
+    mozzarella/fior di latte, and 3 with.
+17. Fresh basil leaves can be added, either 1 minute before ending the cooking 
+    or directly before serving. Make sure the leaves don't burn as they will 
+    become bitter.
+18. Serve and enjoy!
 
 ## Recipe with TangZhong/Water Roux
 
