@@ -18,11 +18,11 @@ Quantità per 8 – 10 persone
 
 ### Per l’impasto
 
-* 400gr di farina ’00
-* 3 uova medie
-* 80gr di burro fuso freddo
-* 40gr di zucchero
-* 2tbsp di liquore all’anice oppure rum
+* 600gr di farina ’00
+* 6 uova medie
+* 160gr di burro fuso freddo
+* 80gr di zucchero
+* 4tbsp di liquore all’anice oppure rum
 * buccia grattugiata di 1 arancia
 * buccia grattugiata di 1 limone
 * 1tsp raso di lievito per dolci
@@ -31,12 +31,12 @@ Quantità per 8 – 10 persone
 
 ### Per decorare
 
-* 300gr di miele
+* 600gr di miele
 * 2tbsp di zucchero a velo vanigliato
 * 3tbsp di confettini colorati
 * qualche confetto cannellino (detti anche “diavolilli” confetti bianchi dalla forma allungata e gusto di cannella)
 * 1tbsp di perline di zucchero color argento
-* 50gr di frutta candita a scelta (ciliegie, scorza d’arancia, cedro)
+* 100gr di frutta candita a scelta (ciliegie, scorza d’arancia, cedro)
 
 ## Preparation
 
