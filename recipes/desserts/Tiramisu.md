@@ -6,44 +6,87 @@ tags: mascarpone, eggs, coffee, marsala, savoiardi
 category: dessert
 ---
 
-This is based off the source's recipe but I've customized to my needs and through making it dozens of time.
+This is based off the original recipe and James Hoffman's interpretation of it, 
+but I've customized to my needs and through making it dozens of time.
 
 ![Tiramisú](media/tiramisu.jpg)
+
+Here's the recipe for 32 biscuits and 19g espresso doses
 
 Ingredients
 ===========
 
-* 500gr mascarpone
-* 300gr biscotti savoiardi
-* 3 Moka coffee (about 250ml)
-* 120gr zucchero
-* 2tsp Marsala (o altro liquore)
-* 4 uova
-* cacao amaro
-* sale
+* 56 Savoiardi biscuits. That will amount to 2 medium/large baking trays
+* 440g of coffee
+* ll20g of mascarpone cheese
+* 14 eggs
+* 220g of sugar
+* 14 drops saline solution (To make saline: dissolve 5g of salt in 20g of boiling water. Store in a dropper bottle.)
+* Cocoa Powder to finish
 
 Preparation
 ===========
 
-Per la ricetta classica del tiramisù, sciacquate con cura i gusci delle uova, separate gli albumi dai tuorli in due ciotole diverse e unite a questi ultimi lo zucchero e un pizzico di sale.
+Brew 13 double shots of espresso. Or, you can do a couple of moka pots (5 cups 
+of coffee each) and 4-6 shots of espresso (depending on the final amount of 
+liquid you get) until you reach the coffee liquid total. For this recipe this 
+is 840g of coffee, slightly less than half of it being cold water added after 
+to dilute it.
+Actual coffee is then 440g, and 400g water.
 
-Tenete da parte gli albumi e sbattete i tuorli con la frusta, finché non diventeranno spumosi e chiari.
+Allow the coffee to cool completely before using it.
 
-Incorporate il mascarpone nei tuorli sbattuti, mescolando con un cucchiaio.
+Add 14 drops of saline solution to the cooled coffee liquid.
 
-Aggiungetevi il Marsala o altro liquore a scelta.
+Add all egg yolks to a ziplock bag and cook, using a sous vide circulator, at 
+60C for 30 minutes then cool completely. If you cannot use a sous vide, you can 
+either use them raw or you can mix with the sugar and heat in a bain marie to 
+70C, then quickly cool.
 
-Montate gli albumi con la frusta a mano o con quelle elettriche: se usate quella manuale sceglietela di grosse dimensioni in modo da incorporare più aria. Unite gli albumi montati al composto di tuorli e mascarpone mescolando la crema dal basso verso l’alto.
+Mix the sugar and egg yolk using a hand mixer, or stand mixer, at a relatively 
+low speed for 4 to 5 minutes. You should see the mixture increase in volume and 
+begin to notably thicken.
 
-Versate il caffè a temperatura ambiente in un piatto basso e largo, mescolatevi un cucchiaio di zucchero.
+Add the mascarpone in thirds, each time incorporating on lower speeds for 30 to 
+60 seconds. It doesn't need to be flawlessly mixed.
 
-Immergete 2 savoiardi alla volta nella bagna, per 1 secondo per lato, poi distribuiteli affiancati, in un primo strato, in una pirofila (30x30 cm), senza lasciare spazi vuoti.
+Whip the whites. Slowly incorporate them into the mascarpone/egg cream.
 
-Coprite i savoiardi con 1/3 della crema e ripetete le stesse operazioni così da fare altri due strati uguali.
+Begin the assembly. Prepare your chosen tray. This recipe presumes you will do 
+it in two stages.
 
-Fate raffreddare il tiramisù in frigo per un paio di ore coperto con un foglio di alluminio, quindi spolverizzatelo con il cacao appena prima di servire.
+Pour 420g of the coffee mixture in a suitable bowl. Take half the Savoiardi. 
+Dunk the Savoiardi only on the non-sugared side. Then turn upside down and 
+place in the tray. Repeat with all biscuits. You should have a little coffee 
+left over. Starting with the last biscuits you dunked, use a pastry brush to 
+add all the remaining coffee to the biscuits in the layer.
+
+Carefully put the mascarpone mixture on top of the biscuits. It doesn't need to 
+be a lot, just enough to cover the biscuits.
+
+Add the remaining 420g of coffee to the bowl. Repeat the dunking of the 
+remaining biscuits.
+
+Add the remaining mascarpone cream.
+
+Dust the tiramisu with cocoa powder.
+
+Refrigerate for at least 8 hours, ideally 24.
+
+Serve and enjoy!
 
 Notes
 =====
 
-Il Marsala può essere aggiunto al caffé come bagna invece, o sia al caffé che agli albumi. Se il tiramisù deve durare qualche giorno in frigo, avere un po' di alchool nella crema evita che diventi acida prima del tempo.
+**Biscuit recommendations**
+
+Matilde Vincenzi Vincenzovo Savoiardi/Ladyfinger biscuits
+
+Antico Borgo Savoiardi/Ladyfinger Biscuits
+
+**Liqueur**
+
+The recipe has optionally a liquer added to the mixture of yolks and mascarpone 
+(before incorporating the egg whites). You may add it or not, it is totally up 
+to your taste. I like to pour a shot of rhum or marsala. It does very little 
+for the final taste but helps to preserve the cream for longer.
